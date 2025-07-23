@@ -7,9 +7,13 @@ The core function and addon details are Alibre Script-based addon developer driv
 Project Structure 
 
 alibre-script-adk-addon-template.sln
+
 alibre-script-adk-addon-template\src\Scripts
+
 alibre-script-adk-addon-template\src\alibre-script-adk-addon-template.adc
+
 alibre-script-adk-addon-template\src\alibre-script-adk-addon-template.csproj
+
 alibre-script-adk-addon-template\src\AlibreAddOn.cs
 
 Submit questions and feature request to the Alibre Forum or contact me directly.
