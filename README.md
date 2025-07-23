@@ -8,7 +8,9 @@ Project Structure
 
 alibre-script-adk-addon-template.sln
 
-alibre-script-adk-addon-template\src\Scripts
+alibre-script-adk-addon-template\src\Scripts\Template.py
+
+alibre-script-adk-addon-template\src\Scripts\alibre_setup.py
 
 alibre-script-adk-addon-template\src\alibre-script-adk-addon-template.adc
 
